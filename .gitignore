@@ -1,0 +1,31 @@
+__pycache__/
+*.pyc
+*.pyo
+
+faces_db/
+logs/
+
+# Python
+*.pyc
+__pycache__/
+
+# *.json
+
+# Logs
+*.log
+
+# Testing
+.pytest_cache/
+
+# Virtual Environments
+venv/
+env/
+
+# Environment variables (CRITICAL - contains secret keys)
+.env
+.env.local
+.env.*.local
+
+pytest.ini
+
+*.sql
