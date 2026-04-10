@@ -1,5 +1,4 @@
 # FaceAPI
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/nikh-iam/FaceAPI)
 
 FaceAPI is a real-time face recognition backend built with FastAPI. It leverages the `insightface` library for high-accuracy face detection and recognition, providing a robust solution for identity verification systems via a simple WebSocket interface.
 
